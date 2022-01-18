@@ -1,5 +1,4 @@
-# assembly_game_one
- MODEL small
+MODEL small
 
 STACK 256
 
